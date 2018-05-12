@@ -7,15 +7,17 @@ creator:
   authors:
   - agent_name: Sadler, William S. (William Samuel)
     alias: Sadler, William Samuel
-    birthdate: &id001 1875
+    birthdate: 1875
     deathdate: 1969
     gutenberg_agent_id: '9541'
     url: http://www.gutenberg.org/2009/agents/9541
   - agent_name: Sadler, Lena K. (Lena Kellogg)
-    birthdate: *id001
+    birthdate: 1875
     gutenberg_agent_id: '9542'
     url: http://www.gutenberg.org/2009/agents/9542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20817#The-Mother-and-Her-Child
 gutenberg_issued: '2007-03-14'
 gutenberg_type: Text
 identifiers:
