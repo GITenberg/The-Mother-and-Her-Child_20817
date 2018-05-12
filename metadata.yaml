@@ -1,0 +1,34 @@
+_repo: The-Mother-and-Her-Child_20817
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20817-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Sadler, William S. (William Samuel)
+    alias: Sadler, William Samuel
+    birthdate: &id001 1875
+    deathdate: 1969
+    gutenberg_agent_id: '9541'
+    url: http://www.gutenberg.org/2009/agents/9541
+  - agent_name: Sadler, Lena K. (Lena Kellogg)
+    birthdate: *id001
+    gutenberg_agent_id: '9542'
+    url: http://www.gutenberg.org/2009/agents/9542
+description: ''
+gutenberg_issued: '2007-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20817'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Child care'
+- !lcsh 'Infants -- Care'
+- !lcsh 'Pregnancy'
+- !lcc 'RJ'
+- !lcsh 'Infants -- Health and hygiene'
+title: The Mother and Her Child
+url: http://www.gutenberg.org/ebooks/20817
